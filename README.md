@@ -104,3 +104,6 @@
     </ul>
 </body>
 </html>
+git add fish_head_curry.html
+git commit -m "Add fish head curry page"
+git push origin main
