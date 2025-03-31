@@ -1,4 +1,6 @@
-# sodelicious-grp4
+git add fish_head_curry.html
+git commit -m "Add fish head curry page"
+git push origin main# sodelicious-grp4
 <!DOCTYPE html><html>
 <head>
     <title>Traditional Foods</title>
